@@ -15,7 +15,7 @@ public class FileReaderTest {
         try {
             fr = new FileReader(f);
             char[] cbuf = new char[3];
-            int len = 0;
+            int len;
             while ((len = fr.read(cbuf)) != -1) {
                 if (len <= cbuf.length) {
                     for (int i = 0; i < len; i++) {
