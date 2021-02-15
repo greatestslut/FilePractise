@@ -7,7 +7,7 @@ public class FileOutputStreamTest {
         FileOutputStream fo = null;
         try {
             File f1 = new File("hello1.txt");
-            File f2 = new File("video.txt");
+            File f2 = new File("video.tt");
 
             fi = new FileInputStream(f1);
             fo = new FileOutputStream(f2);
