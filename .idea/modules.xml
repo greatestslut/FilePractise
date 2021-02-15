@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BufferedStream/BufferedStream.iml" filepath="$PROJECT_DIR$/BufferedStream/BufferedStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileAttribute/FileAttribute.iml" filepath="$PROJECT_DIR$/FileAttribute/FileAttribute.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FilePractise.iml" filepath="$PROJECT_DIR$/FilePractise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileStream/FileStream.iml" filepath="$PROJECT_DIR$/FileStream/FileStream.iml" />
+    </modules>
+  </component>
+</project>
